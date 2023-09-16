@@ -1,0 +1,51 @@
+body {
+    background-image: url('https://wallpapersmug.com/download/1600x900/39b255/material_design_geometric_stock_dark_black.jpg');
+    background-size: cover;
+    text-align: center;
+    background-size: center;
+    background-repeat: no-repeat;
+    font-family: 'Acme', sans-serif;
+}
+
+#container {
+    background-color: black;
+    box-shadow: 5px 5px 5px black;
+    margin-top: -20px;
+    padding: 10px;
+}
+
+.headings1 {
+    font-size: 80px;
+    color: aquamarine;
+    text-shadow: 5px 2px 2px aquamarine;
+}
+
+.c {
+    color: aquamarine;
+    font-size: 60px;
+    background-color: black;
+    box-shadow: 5px 5px 5px black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#pop {
+    right: 0;
+    position: fixed;
+    margin-right: 10px;
+    background-color: black;
+    color: aquamarine;
+    box-shadow: 5px 5px 5px aquamarine;
+    border-radius: 5px;
+}
+
+.modal-dialog {
+    width: 45%;
+}
+
+canvas {
+    margin-top: 170px;
+    box-shadow: 5px 5px 30px aquamarine;
+    border-radius: 5px; 
+}
